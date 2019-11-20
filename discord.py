@@ -1,7 +1,7 @@
 import discord
 from googlesearch import search
 
-TOKEN = 'NjQ2MjgzMzE0MjY0NjcwMjI3.XdO4uQ.56QF3JVu4x9f9SB-Xcp7GqnPGp8'
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 client = discord.Client()
 recent_history = list()
