@@ -1,7 +1,7 @@
 import discord
 from googlesearch import search
 
-TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+TOKEN = input("Enter the token of bot: ")
 
 client = discord.Client()
 recent_history = list()
